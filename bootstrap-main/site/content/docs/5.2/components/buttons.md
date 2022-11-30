@@ -65,6 +65,7 @@ Fancy larger or smaller buttons? Add `.btn-lg` or `.btn-sm` for additional sizes
 {{< example >}}
 <button type="button" class="btn btn-primary btn-lg">Large button</button>
 <button type="button" class="btn btn-secondary btn-lg">Large button</button>
+<button type="button" class="btn btn-td-secondary btn-lg">Large button</button>
 {{< /example >}}
 
 {{< example >}}
